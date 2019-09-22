@@ -21,9 +21,10 @@
 }
 
 .search-bar img {
-	padding:142px 0 24px 0;
+	padding:175px 100 10px 100;
 	display: block;
-	margin: 0; auto;
+	margin: 25; auto;
+    
 }
 
 .search-bar input {
@@ -35,3 +36,15 @@
     border-radius: 5px;
     display: block;
 }
+
+.search-buttons  {
+	text-align: center;
+	padding-left: 0;
+}
+
+.center {
+	
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+  }
