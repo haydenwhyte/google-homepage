@@ -1,0 +1,37 @@
+/*Select any elements with a class of header-bar*/
+.header-bar {
+	float:right;
+	margin-right: 25px;
+}
+.header-bar li{
+	list-style:none;
+	display: inline-block;
+	text-align: right;
+	padding: 5px 10px 0 0;
+	vertical-align: bottom;
+	margin: 5px 5px 0 0;
+	font-size: 13px;
+}
+
+/*Search bar*/
+.search-bar {
+	position: absolute;
+	margin-top:75px;
+	width:100%;
+}
+
+.search-bar img {
+	padding:142px 0 24px 0;
+	display: block;
+	margin: 0; auto;
+}
+
+.search-bar input {
+	width: 600px;
+    margin: 0 auto;
+    padding: 5px;
+    border: 1px solid #d9d9d9;
+    font-size: 16px;
+    border-radius: 5px;
+    display: block;
+}
